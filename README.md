@@ -27,10 +27,10 @@
 
 ## 🚀 Featured Projects
 
-⭐ E-commerce Website  
-⭐ Pinterest Clone  
-⭐ WatchFund  
-⭐ Portfolio Demo
+⭐ Online Voting System Simulation
+⭐ Streaming Platform Service  
+⭐ Real World Applications of Data Structures  
+⭐ Website Design - TerraTales
 
 ---
 
