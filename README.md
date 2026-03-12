@@ -8,11 +8,12 @@
 
 ## 🛠 Languages and Tools
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![NodeJS](https://img.shields.io/badge/NodeJS-green?logo=node.js)
-![React](https://img.shields.io/badge/React-blue?logo=react)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![C](https://img.shields.io/badge/C-blue?logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-lightgrey?logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+
 
 ---
 
