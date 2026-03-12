@@ -1,6 +1,7 @@
 # Hi 👋 I'm Ashish
 
-💻 Student 
+💻 Student
+
 📚 Currently learning Cybersecurity  
 🚀 Passionate about the Web
 
