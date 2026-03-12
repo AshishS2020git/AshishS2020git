@@ -1,8 +1,8 @@
 # Hi 👋 I'm Ashish Sujesh
 
--💻 Student - RV University <br>
--📚 Currently learning Cybersecurity  
--🚀 Passionate about the Web
+💻 Student - RV University  
+📚 Currently learning Cybersecurity  
+🚀 Passionate about the Web
 
 ---
 
@@ -27,10 +27,10 @@
 
 ## 🚀 Featured Projects
 
--⭐ Online Voting System Simulation
--⭐ Streaming Platform Service  
--⭐ Real World Applications of Data Structures  
--⭐ Website Design - TerraTales
+⭐ Online Voting System Simulation  
+⭐ Streaming Platform Service  
+⭐ Real World Applications of Data Structures  
+⭐ Website Design - TerraTales
 
 ---
 
