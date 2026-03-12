@@ -1,8 +1,8 @@
 # Hi 👋 I'm Ashish
 
-💻 Full Stack Developer  
-📚 Currently learning Data Science & AI/ML  
-🚀 Passionate about Web Development
+💻 Student 
+📚 Currently learning Cybersecurity  
+🚀 Passionate about the Web
 
 ---
 
