@@ -1,8 +1,8 @@
 # Hi 👋 I'm Ashish Sujesh
 
-💻 Student - RV University <br>
-📚 Currently learning Cybersecurity  
-🚀 Passionate about the Web
+-💻 Student - RV University <br>
+-📚 Currently learning Cybersecurity  
+-🚀 Passionate about the Web
 
 ---
 
