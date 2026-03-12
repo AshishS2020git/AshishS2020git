@@ -27,10 +27,10 @@
 
 ## 🚀 Featured Projects
 
-⭐ Online Voting System Simulation
-⭐ Streaming Platform Service  
-⭐ Real World Applications of Data Structures  
-⭐ Website Design - TerraTales
+-⭐ Online Voting System Simulation
+-⭐ Streaming Platform Service  
+-⭐ Real World Applications of Data Structures  
+-⭐ Website Design - TerraTales
 
 ---
 
