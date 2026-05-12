@@ -30,11 +30,17 @@
 
 ## 📊 GitHub Stats
 
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashish212020&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshishS2020git&show_icons=true&theme=tokyonight" alt="Ashish's GitHub stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish212020&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishS2020git&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ashish212020&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AshishS2020git&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
