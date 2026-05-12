@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishS2020git&layout=compact&theme=tokyonight" alt="Top Languages" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshishS2020git&show_icons=true&theme=radical)
 </p>
 
 <p align="center">
